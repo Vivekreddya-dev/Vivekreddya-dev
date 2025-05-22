@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![image1](image1)" alt="Vivek Reddy Sr Software Engineer Banner" width="100%" />
+  <img src="/Background_Vivek.png" alt="Vivek Reddy Sr Software Engineer Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Vivek 👋</h1>
