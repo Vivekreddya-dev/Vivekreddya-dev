@@ -73,7 +73,7 @@ I'm a passionate **Sr Software Engineer** with a knack for building scalable, ro
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Payments  
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Paymentus](https://img.shields.io/badge/-Paymentus-005CB9?style=for-the-badge&logo=paymentus&logoColor=white)
 ![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 ![Apple Pay](https://img.shields.io/badge/-Apple%20Pay-000000?style=for-the-badge&logo=applepay&logoColor=white)
 ![Google Pay](https://img.shields.io/badge/-Google%20Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)
